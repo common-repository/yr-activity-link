@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.590282c7.chunk.css",
+    "main.js": "/static/js/main.4bb21378.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.4eb4d154.js",
+    "static/css/2.4977b935.chunk.css": "/static/css/2.4977b935.chunk.css",
+    "static/js/2.f3823219.chunk.js": "/static/js/2.f3823219.chunk.js",
+    "index.html": "/index.html",
+    "static/media/alipay-qrcode.dcc892b3.png": "/static/media/alipay-qrcode.dcc892b3.png",
+    "static/media/app4ConfigDemo.8a32473d.jpg": "/static/media/app4ConfigDemo.8a32473d.jpg",
+    "static/media/wx-qrcode.5cb4cdbf.jpg": "/static/media/wx-qrcode.5cb4cdbf.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4eb4d154.js",
+    "static/css/2.4977b935.chunk.css",
+    "static/js/2.f3823219.chunk.js",
+    "static/css/main.590282c7.chunk.css",
+    "static/js/main.4bb21378.chunk.js"
+  ]
+}
